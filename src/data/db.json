@@ -1,0 +1,1433 @@
+{
+  "video": [
+    {
+      "videoId": "vid-1",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-2",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-3",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-4",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-5",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-6",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-7",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-8",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-9",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-10",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-11",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-12",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-13",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-14",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-15",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-16",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-17",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-18",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-19",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-20",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-21",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-22",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-23",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    },
+    {
+      "videoId": "vid-24",
+      "url": "../../assets/001.mp4",
+      "title": "Mastering React: A comprehensive guide",
+      "description": [
+        "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on components.It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality. A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements."
+      ],
+      "tags": ["React", "Javascript", "Frontend Development"],
+      "uploadDate": "2024-03-18",
+      "category": "Science & Technology",
+      "thumbnail": "../../assets/thumbnail.webp",
+      "duration": "01:30:00",
+      "viewCount": 1000000,
+      "likes": 75000,
+      "dislikes": 1000,
+      "comments": [
+        {
+          "commentId": "com-1",
+          "user": {
+            "userId": "user-1",
+            "username": "ReactDev"
+          },
+          "text": "This tutorial is awesome! Thanks for sharing.",
+          "likes": 50,
+          "dislikes": 10,
+          "uploadDate": "2024-03-20",
+          "replies": [
+            {
+              "replyId": "com-1-rep-1",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            },
+            {
+              "replyId": "com-1-rep-2",
+              "user": {
+                "userId": "user-2",
+                "username": "WebWizard"
+              },
+              "text": "Agreed! React is my favourite framework",
+              "likes": 25,
+              "dislikes": 5,
+              "uploadDate": "2024-03-21"
+            }
+          ]
+        }
+      ],
+      "channel": {
+        "channelId": "chan-1",
+        "channelName": "React Masterclass",
+        "channelThumbnail": "../../assets/en.png",
+        "subscribers": 500000
+      }
+    }
+  ]
+}
